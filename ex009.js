@@ -1,2 +1,2 @@
 var pais = `EUA`
-console.log(`
+console.log
